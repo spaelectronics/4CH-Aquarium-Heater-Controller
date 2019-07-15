@@ -1,6 +1,3 @@
-# 4CH-Aquarium-Heater-Controller
-
-
 # Parts Needed
 QTY: 1 - ITEM: C8 Power Socket Panel Mount  
 URL: https://www.digikey.com/product-detail/en/qualtek/770W-X2-13/Q840-ND/1466563
